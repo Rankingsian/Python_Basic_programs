@@ -1,4 +1,4 @@
-# 🖋️ File Modifier
+ 🖋️ File Modifier
 
 A simple Python program that **reads a file**, handles errors if the file does not exist or cannot be read, and then writes a **modified version** of the file to a new file.
 
@@ -14,4 +14,3 @@ A simple Python program that **reads a file**, handles errors if the file does n
 
 ---
 
-## 📂 Project Structure
